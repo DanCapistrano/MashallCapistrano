@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+</style>
+<stlye>
+<table style="border: 5px solid rgb(48, 28, 2); width: 50%; margin-left: auto;
+margin-right: auto; margin-top: 2rem;">
+ <tr>
+    <th rowspan="6" style="border: 2px solid rgba(243, 182, 51, 0.945); color: 47246D4; font-size: 25px;"> <img src="https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.6435-9/106676203_347335762916977_8201565789544406132_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHqi4lBc9zlkfUbnqZwusXqoIYAT0R0Z7eghgBPRHRnt58aQJYtQU4TliLDL2bp--Zh8g1pMkqUpx6uF-j9qDk0&_nc_ohc=vNF3pgTSJLUAX8QtRVC&_nc_ht=scontent.fmnl3-1.fna&oh=00_AT9g3PmyAEGhgjPaK5INQp0qo5EdxGyQ_aFTKOiftJl9Uw&oe=62D7CC90" width="250px" height="250px"></a></h3> <br>
+    <h3> Father </h3>
+    <p>The head of our family, he serves as our guardian and provides for all of our needs, including our daily food. He helped us to  </p> 
+    <br>
+    <br>
+    <button class="btn" onclick="document.location='Activity 5 (daddy).html'"style="position: relative;top:55px;left:0px;"><i class="fa fa-bars">Father</i></button> 
+    </th>
+                  
+    <th style="border: 2px solid rgb(243, 182, 51, 0.945); color: 47246D4; font-size: 25px;"> <img src="https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.6435-9/39080717_2070517809639161_1894952674940420096_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeE9o9QPgZsjSlEVlmqkTdnzUNXQ6oxhUnBQ1dDqjGFScJ_2oipbcanCa_3sAwgZEvIShLCOO0L_N3XhlJ_eHZxy&_nc_ohc=IIG5C5xhM6AAX_54eSI&_nc_ht=scontent.fmnl3-1.fna&oh=00_AT9MK7tsqX_VD6r92uBA45HpubWZtBjqKu8a65qKEFBfUg&oe=62D98300" width="250px" height="250px"></a></h3> <br>
+    <h3> Mother </h3>
+    <p>She is my mother—the kind and loving one. She can make anything we need, including food and other things. the most imaginative and energetic member of our family. </p>
+    <button class="btn" onclick="document.location='Activity 5 (mommy).html'"style="position: relative;top:90px;left:0px;"><i class="fa fa-bars">Mother</i></button> 
+    </th>
+                
+
+    <th rowspan="6" style="border: 2px solid rgb(243, 182, 51, 0.945); color: 47246D4; font-size: 25px;"> <img src="https://scontent.fmnl3-1.fna.fbcdn.net/v/t39.30808-6/270432422_703028407769370_2943659062572836438_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFq-nC-xFJ6FhKbo4BmzA3G4xZgc5Nc_Q3jFmBzk1z9DbYcYWvwpzgNb1HpTEJTJ7fo7woG4pwJrVaeKsGHMZxR&_nc_ohc=x7DI1lwVZ4gAX-J2ZFV&_nc_ht=scontent.fmnl3-1.fna&oh=00_AT8grJvwc-bnBPDVKyEP9HNu2g4wrk4QYQkZhocDu26vZQ&oe=62B7CFFB" width="250px" height="250px"></a></h3>
+    <h3>  Im The Only SON</h3>
+    <p> Im the only son of my perants. born from Quezon City. and My Hobbies, cooking, creating a desert and finger foods, like to play online games and playing defference sport like teakwando.</p>
+    <button class="btn" onclick="document.location='Activity 5 (part 3).html'"style="position: relative;top:50px;left:0px;"><i class="fa fa-bars">ME</i></button> 
+    </th>
+
+        
+    </tr>
+    <style>
+            body {
+            background-image: url("https://images.unsplash.com/photo-1596614135971-0e4a97a7cdff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG91c2UlMjB3YWxsfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+            background-repeat: no-repeat;
+            background-attachment: fixed; 
+            background-size: 100% 100%;  
+            }
+            .btn {
+            background-color: rgb(148, 101, 14);
+            border: none;
+            color: rgb(0, 0, 0);
+            padding: 12px 16px;
+            font-size: 20px;
+            cursor: pointer;
+            }
+            h1{
+            background-color: rgb(231, 169, 76) (18, 13, 88);
+            color: rgb(253, 255, 255);
+            font-style: normal;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            border-color: rgb(240, 190, 52);
+            border-style: double;
+            opacity: 70%;
+            border-radius: 0%;
+            outline-style: outset;
+            outline-color: rgb(235, 230, 240);
+            text-shadow: 2px 2px 5px rgb(8, 6, 0);
+            border: 5px solid rgb(243, 240, 239);
+            text-align: center;
+            }
+
+            h3{
+            background-color: rgb(255, 255, 255) (18, 13, 88);
+            color: rgb(223, 155, 77);
+            font-style: normal;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            border-color: rgb(255, 255, 255);
+            border-style: double;
+            opacity: 70%;
+            border-radius: 0%;
+            outline-color: rgb(235, 230, 240);
+            text-shadow: 2px 2px 5px rgb(153, 6, 153);
+            border: 5px solid rgb(243, 240, 239);
+            text-align: center;
+                    
+            }
+            p{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 20px;
+            background-color: rgb(226, 195, 95);
+            opacity: 80%;
+            font-style: normal;
+            margin-left: 1%;
+            margin-right: 1%;
+            border-radius: 3px;
+            text-align: justify;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            }
+
+        h1:hover {background-color: rgb(236, 202, 89);  scale (1,2);}
+        h3:hover {background-color: rgb(0, 0, 0);  scale (1,2);}
+        p:hover {background-color: rgb(255, 250, 250);   scale (1,2);}
+        </style>
+        </center>
+        </center>
+        <center>
+        <button class="btn" onclick="document.location='Activity 5 (home).html'"style="position: relative;top:10px;left:0px;"><i class="fa fa-bars">HOME</i></button> 
+        </center>
+              
+ </style>
+ </body>
+</html>

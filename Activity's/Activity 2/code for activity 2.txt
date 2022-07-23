@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<center>
+<h1>My Second Activity</h1>
+<table border="1px">
+
+    <P style="color: rgb(213, 235, 20);"> GOOGLE </P>
+    Ang Google ay isa website upang makapag search ka ng mga gusto mo malaman at mga bagay na hindi mo pa naiintindihan sa buhay. pwede ka dito mag tanong at hanapin ang mga gusto mong makita ng mabilis.
+    <P style="color: rgb(6, 248, 228);"> YOUTUBE </P>
+    Ang Youtube ay isang uri ng app or website upang makapakinig ng kanta at makanood ng mga vidoe. maraming tulong ang pag gamit ng youtube sa mga tao ngayong panahon. isa itong uri ng bagay upang malaman natin ang mga bagay na gusto natin malaman tulad ng mga sakit sa katawan at iba pang bahagi. dahil sa mga nag post dito na mga Doctor's at iba pang tao.
+    <P style="color: rgb(3, 250, 57);"> Twitter </P>
+    Ang twitter ay isang uri rin ng website. pwede ka dito maka kilala ng ibat ibang uri ng tao na pwede mong makausap. sa dami ng gumagamit dito kalamitan ay mga artista. meron ring mga taong hindi sikat ang gumagamit nitong app na ito upang mag labas ng kaninalang mga upinyon sa mga ng yayari sa kapaligiran.
+    <P style="color: rgb(255, 39, 1);"> MESSENGER </P>
+    Ang Messeger ay parang texting typr sa maka baong paraan na gumagana lamang pag merong signal ang cellphone. pwede rin ito gamitin sa computer ngunit kailangan nito ng wifi na ginagamit ngayong panahon. ang messenger ay ginagamit na upang makausap ang mga mahal natin sa buhay at ginagamit rin ito upang makausap ang mga taong malayo saatin ito man ay nasa ibang bansa o ibang lugar dito sa bansa.
+    <P style="color: rgb(204, 0, 255);"> FACEBOOK </P>
+    And Facebook ay ginagamit ngayon upang ibahagi sa ibang tao kong ano ang kanilang napag hirapan sa buhay. ngunit marmaing marites ngayon ang gumagamit upang manira ng ibang tao. ito ay naka program upang makakilala ng iba't ibang uri ng tao sa mundo at maging kaibigan ngayon, ngunit hindi na ito ang objective ng mga tao ngayon dahil ito na ang isa sa mga paraan upang  manira lamang ng tao.
+<br></br>
+<style>
+    body {
+      background-image: url('123456.JPG');
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+      background-size: 100% 100%;
+    }
+    </style>
+
+<tr>
+    <td>SEARCH</td>
+    <td>CHROME</td>
+    <td>FIREFOX</td>
+    <td>GOOGLE</td>
+    <td><a href="https://www.google.com/" target="_blank">Google.com</a></td>
+</tr>
+<tr>
+    <td>SEARCH</td>
+    <td>CHROME</td>
+    <td>FIREFOX</td>
+    <td>YOUTUBE</td>
+    <td><a href="https://www.youtube.com/" target="_blank">Youtube.com</a></td>
+<tr>
+    <td>SEARCH</td>
+    <td>CHROME</td>
+    <td>FIREFOX</td>
+    <td>TWITTER</td>
+    <td><a href="https://twitter.com/" target="_blank">Twitter.com</a></td>
+</tr>
+<tr>
+    <td>SEARCH</td>
+    <td>CHROME</td>
+    <td>FIREFOX</td>
+    <td>MESSENGER</td>
+    <td><a href="https://www.messenger.com/" target="_blank">Messenger.com</a></td>
+</tr>
+<tr>
+    <td>SEARCH</td>
+    <td>CHROME</td>
+    <td>FIREFOX</td>
+    <td>FACEBOOK</td>
+    <td><a href="https://www.facebook.com/" target="_blank">Facebook.com</a></td>
+</tr>
+</body>
+</center>
+</html>

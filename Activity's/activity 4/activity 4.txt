@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act4</title>
+    <style>
+        body {
+          background-image: url('https://img.freepik.com/free-vector/gradient-golden-linear-background_23-2148936878.jpg?w=2000');
+          background-attachment: fixed;
+          background-position: 100% 100%;
+          background-repeat: no-repeat;
+          background-size: cover;
+            }
+       .btn {
+          background-color: rgb(253, 173, 0);
+           border: none;
+           color: rgb(5, 0, 0);
+           padding: 12px 16px;
+           font-size: 16px;
+          cursor: pointer;
+            }
+      .btn:hover {
+           background-color: rgb(221, 211, 211)5);
+            }
+      #img{
+           position: relative;
+           top:-150px;
+          left:-100px;
+           }
+      form{
+           position: relative;
+          top:50px;
+          left:100px;
+          }
+        h1{
+          color: rgb(94, 63, 7);
+          border-style: solid;
+          background-color: rgb(53, 35, 2);
+          background-color: rgb(216, 204, 158);
+          }
+        h4{
+          color: white;
+          border-style: solid;
+          background-color: RoyalBlue;
+          background-color: rgb(78, 7, 136);
+          position: relative;
+          top:-70px;
+          left:100px;
+              }
+       h2{
+          color: rgb(94, 63, 7);
+          border-style: solid;
+          border-color: rgb(53, 35, 2);
+          background-color: rgb(216, 204, 158);
+          }
+       h3{
+            color: rgb(94, 63, 7);
+          border-style: solid;
+          border-color: rgb(53, 35, 2);
+          background-color: rgb(216, 204, 158);
+          }   
+        img {
+          border-radius: 20%;
+              }
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+">
+</head>
+<body>
+    <center>
+        <h1> HOME </h1> 
+    </center>
+        <br>
+        <br>
+        <button class="btn" onclick="document.location=' Activity 4 (activity 3).html'"><i class="fa fa-bars">ACT3</i></button>&nbsp;&nbsp;
+<h2> Activity #3. the second website program I do. Click the Button for more information about it. <br></h2>
+  <br>
+  <br>
+        <button class="btn" onclick="document.location='Activity 4 part 2.html'"><i class="fa fa-user">Personal info</i></button>
+<h2> My personal information, This info is all about me. if you want to see the full info please click the button</h2>
+     <br>
+     <br>
+     <button class="btn" onclick="document.location='act5.html'"><i class="fa fa-user">Info about my Fam</i></button>
+     <h2> this link is all about my family info and who they are. If you click the button in top left side, it will go to my activity 5 ITS Family Information</h2>
+</h2>
+  <center>
+</center>
+</body>
+</html>

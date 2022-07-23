@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    <style>
+      body {
+        background-image: url('https://img.freepik.com/free-photo/brown-watercolor-leaf-background-aesthetic-autumn-season_53876-129881.jpg?w=2000');
+        background-attachment: fixed;
+        background-position: 100% 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+          }
+     .btn {
+        background-color: rgb(202, 137, 16);
+         border: none;
+         color: rgb(0, 0, 0);
+         padding: 12px 16px;
+         font-size: 16px;
+        cursor: pointer;
+          }
+    .btn:hover {
+         background-color: rgb(216, 141, 29);
+          }
+    #img{
+         position: relative;
+         top:-170px;
+        left:-100px;
+         }
+    form{
+         position: relative;
+        top:50px;
+        left:100px;
+        }
+      h1{
+        color: rgb(94, 63, 7);
+          border-style: solid;
+          background-color: rgb(53, 35, 2);
+          background-color: rgb(216, 204, 158);
+        }
+      h4{
+        color: rgb(94, 63, 7);
+          border-style: solid;
+          background-color: rgb(53, 35, 2);
+          background-color: rgb(216, 204, 158);
+        position: relative;
+        top:-60px;
+         left:100px;
+            }
+     h2{
+        color: rgb(7, 4, 4);
+        border-style: solid;
+        border-color: rgb(151, 100, 5);
+        background-color: rgb(211, 175, 78);
+        }
+     h3{
+        color: rgb(7, 4, 4);
+        border-style: solid;
+        border-color: rgb(151, 100, 5);
+        background-color: rgb(211, 175, 78);
+        }   
+      img {
+        border-radius: 20%;
+            }
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+">
+</head>
+<body>
+    <center>
+        <h1> USER INFORMATION </h1> 
+        </center>
+        <br>
+        <center>
+        <br>
+        <h2>+=+=+=+=+=+=+=+=+Dan Marshall Capistrano+=+=+=+=+=+=+=+=+</h2>
+        <h3>        +=+=+=+=+=+=BSIT-2D-------ACTIVITY 4=+=+=+=+=+=+</h3>
+        </center>
+        <img src="https://scontent.fmnl3-1.fna.fbcdn.net/v/t39.30808-6/270432422_703028407769370_2943659062572836438_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFq-nC-xFJ6FhKbo4BmzA3G4xZgc5Nc_Q3jFmBzk1z9DbYcYWvwpzgNb1HpTEJTJ7fo7woG4pwJrVaeKsGHMZxR&_nc_ohc=x7DI1lwVZ4gAX-J2ZFV&_nc_ht=scontent.fmnl3-1.fna&oh=00_AT8grJvwc-bnBPDVKyEP9HNu2g4wrk4QYQkZhocDu26vZQ&oe=62B7CFFB" style="width:210px;height:210px;border-style: solid;border-color: rgb(11, 126, 161); float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        <form action="/action_page.php">
+        <fieldset>
+        <center>
+        <legend> </legend>
+          <a style="color: rgb(0, 0, 0); border-style: solid;border-color: rgb(114, 65, 0);background-color: rgb(230, 177, 80);"><label for="pob"> PLACE OF BIRTH: </label></a>&nbsp;&nbsp;
+          <input type="text" id="pob" name="pob"><br><br>
+          <a style="color: rgb(0, 0, 0); border-style: solid;border-color: rgb(114, 65, 0);background-color: rgb(230, 177, 80);"> <label for="cs"> CIVIL STATUS: </label></a>&nbsp;&nbsp;
+          <input type="text" id="cs" name="cs"><br><br>
+          <a style="color: rgb(0, 0, 0); border-style: solid;border-color: rgb(114, 65, 0);background-color: rgb(230, 177, 80);"><label for="rel"> RELIGION: </label></a>&nbsp;&nbsp;
+          <input type="text" id="rel" name="rel"><br><br>
+        <a style="color: rgb(0, 0, 0); border-style: solid;border-color: rgb(114, 65, 0);background-color: rgb(230, 177, 80);"><label for="text"> CITIZENSHIP: </label></a>&nbsp;&nbsp;
+          <input type="text" id="citi" name="citi"><br><br>
+        <a style="color: rgb(0, 0, 0); border-style: solid;border-color: rgb(114, 65, 0);background-color: rgb(230, 177, 80);"> <label for="height"> HEIGHT: </label></a>&nbsp;&nbsp;
+          <input type="number" id="height" name="height"><br><br>
+        </center>
+        </fieldset>
+        </form>
+        <br><br><br><br><br><br>
+<button class="btn" onclick="document.location='Activity 4.html'"><i class="fa fa-home"></i>Home</button>&nbsp;&nbsp;
+<h4>My Name is Dan Marshall Capistrano, 20 years old, and Now Im 2nd year at Colegio De Montalban.<br>
+    I like playing Online Games, and like to practice different sports</h4>
+</body>
+</html>
